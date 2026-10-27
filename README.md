@@ -98,7 +98,7 @@ currently: Building public projects on AI evals & data quality
 ## 🌦️ Live from Bengaluru
 
 <p align="center">
-  <img src="https://wttr.in/Bengaluru_0pqm_transparency=200.png" alt="Bengaluru weather" />
+  <img src="./Weather.svg" alt="Bengaluru weather" />
 </p>
 
 ---

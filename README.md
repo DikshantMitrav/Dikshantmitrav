@@ -1,12 +1,12 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dikshant%20Mitrav&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Product%20Manager%20%E2%80%A2%20Data%20%26%20AI&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="./Analysis_Banner.svg" width="100%" alt="Dikshant Mitrav banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+build+%26+evaluate+AI+products+for+B2B+data;Owning+an+MCP+platform+%2B+an+AI+Power+Dialer;Data+Ops+%E2%86%92+Senior+Analyst+%E2%86%92+Product+Manager;I+can+tell+if+the+AI+actually+works+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=I+build+%26+evaluate+AI+products+for+B2B+data;Data+Ops+%E2%86%92+Senior+Analyst+%E2%86%92+Product+Manager;I+can+tell+if+the+AI+actually+works+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,6 @@ name:      Dikshant Mitrav
 role:      Product Manager, Data & AI
 based_in:  Bengaluru, India 🇮🇳
 journey:   Data Ops → Associate Analyst → Senior Data Analyst → PM
-owning:    [MCP Platform, AI Power Dialer]
 superpower: "Deciding what to build AND judging whether the AI performs"
 currently: Building public projects on AI evals & data quality
 ```
@@ -87,7 +86,11 @@ currently: Building public projects on AI evals & data quality
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DikshantMitrav&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DikshantMitrav/Dikshantmitrav/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DikshantMitrav/Dikshantmitrav/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/DikshantMitrav/Dikshantmitrav/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -117,5 +120,5 @@ currently: Building public projects on AI evals & data quality
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+  <img src="./Footer_Analysis.svg" width="100%" />
 </p>
